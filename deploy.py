@@ -7,4 +7,6 @@ print('Hello World')
 deploy in the dev env
 deployment5 master
 deployment4
-deploy to stating
+deploy to stating env
+print("good job") 
+Tested and accepted
